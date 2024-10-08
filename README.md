@@ -1,5 +1,5 @@
 <!--Logo-->
-![logo]()
+![logo](https://github.com/SnehalPardeshi/SnehalPardeshi/blob/main/logo.png)
 <br>
 
 <!--Intro-->
