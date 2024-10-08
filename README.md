@@ -5,7 +5,7 @@
 <!--Intro-->
 <h1 align="center">Hi 👋, I'm Snehal</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png height=1040">
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalpardeshi&label=Profile%20views&color=0e75b6&style=flat" alt="snehalpardeshi" /> </p>
 <br>
 
