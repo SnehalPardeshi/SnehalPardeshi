@@ -11,7 +11,7 @@
 
 <!--About-->
 - 🌱 I’m currently learning **React**
-- 👨‍💻 All of my projects are available at [http://localhost:3000](http://localhost:3000)
+
 - 📫 How to reach me **snehalvp2000@gmail.com**
 <br>
 
